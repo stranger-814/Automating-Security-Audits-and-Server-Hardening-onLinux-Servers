@@ -6,7 +6,7 @@ This script automates security audits and hardening processes for Linux servers,
 
 1. **Clone the repository:**
    ```bash
-   git clone [invalid URL removed]
+   git clone <https://github.com/stranger-814/Automating-Security-Audits-and-Server-Hardening-onLinux-Servers.git>
    ```
 
 2. **Make the script executable:**
